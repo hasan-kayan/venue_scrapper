@@ -1,0 +1,21 @@
+{
+    "gluten_free.csv": [
+        "gluten free",
+        "gf options",
+        "glutensiz",
+        "gluten-free",
+        "gluten free options",
+        "glutensiz seçenekler",
+        "çölyak",
+        "çölyak safe",
+        "celiac",
+        "celiac safe"
+    ],
+    "vegan_vegetarian.csv": [
+        "vegan",
+        "vegetarian"
+    ],
+    "kosher.csv": [
+        "kosher"
+    ]
+}
