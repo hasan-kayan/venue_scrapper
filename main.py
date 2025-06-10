@@ -3,7 +3,7 @@ from apis.foursquare_places import search_places_foursquare
 from utils.csv_writer import write_venue
 
 def run():
-    locations = ["New York, USA", "Los Angeles, USA"]
+    locations = ["New York, USA"]
     for location in locations:
         print(f"📍 Searching venues in {location}")
         venues = search_places_google(location) + search_places_foursquare(location)
